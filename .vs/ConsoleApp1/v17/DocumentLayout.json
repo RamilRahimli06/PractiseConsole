@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lenova\\OneDrive\\Desktop\\New folder\\ConsoleApp1\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0AAD5A96-2819-49E0-A094-1C110E1E21B7}|Service\\Service.csproj|c:\\users\\lenova\\onedrive\\desktop\\new folder\\consoleapp1\\consoleapp1\\service\\services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AAD5A96-2819-49E0-A094-1C110E1E21B7}|Service\\Service.csproj|solutionrelative:service\\services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B41E0207-684C-4CDF-A544-85D61110A06F}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\lenova\\onedrive\\desktop\\new folder\\consoleapp1\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B41E0207-684C-4CDF-A544-85D61110A06F}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AAD5A96-2819-49E0-A094-1C110E1E21B7}|Service\\Service.csproj|c:\\users\\lenova\\onedrive\\desktop\\new folder\\consoleapp1\\consoleapp1\\service\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AAD5A96-2819-49E0-A094-1C110E1E21B7}|Service\\Service.csproj|solutionrelative:service\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{975A4125-C396-4FE2-BD67-C6B7B333282E}|Repository\\Repository.csproj|c:\\users\\lenova\\onedrive\\desktop\\new folder\\consoleapp1\\consoleapp1\\repository\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{975A4125-C396-4FE2-BD67-C6B7B333282E}|Repository\\Repository.csproj|solutionrelative:repository\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{975A4125-C396-4FE2-BD67-C6B7B333282E}|Repository\\Repository.csproj|c:\\users\\lenova\\onedrive\\desktop\\new folder\\consoleapp1\\consoleapp1\\repository\\repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{975A4125-C396-4FE2-BD67-C6B7B333282E}|Repository\\Repository.csproj|solutionrelative:repository\\repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87BA4FC4-1712-41ED-BC74-74ECD67E94D7}|Domain\\Domain.csproj|c:\\users\\lenova\\onedrive\\desktop\\new folder\\consoleapp1\\consoleapp1\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87BA4FC4-1712-41ED-BC74-74ECD67E94D7}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B41E0207-684C-4CDF-A544-85D61110A06F}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\lenova\\onedrive\\desktop\\new folder\\consoleapp1\\consoleapp1\\consoleapp1\\controllers\\groupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B41E0207-684C-4CDF-A544-85D61110A06F}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\controllers\\groupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AAD5A96-2819-49E0-A094-1C110E1E21B7}|Service\\Service.csproj|c:\\users\\lenova\\onedrive\\desktop\\new folder\\consoleapp1\\consoleapp1\\service\\services\\groupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AAD5A96-2819-49E0-A094-1C110E1E21B7}|Service\\Service.csproj|solutionrelative:service\\services\\groupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{975A4125-C396-4FE2-BD67-C6B7B333282E}|Repository\\Repository.csproj|c:\\users\\lenova\\onedrive\\desktop\\new folder\\consoleapp1\\consoleapp1\\repository\\repositories\\grouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{975A4125-C396-4FE2-BD67-C6B7B333282E}|Repository\\Repository.csproj|solutionrelative:repository\\repositories\\grouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AAD5A96-2819-49E0-A094-1C110E1E21B7}|Service\\Service.csproj|c:\\users\\lenova\\onedrive\\desktop\\new folder\\consoleapp1\\consoleapp1\\service\\services\\interfaces\\igroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AAD5A96-2819-49E0-A094-1C110E1E21B7}|Service\\Service.csproj|solutionrelative:service\\services\\interfaces\\igroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{975A4125-C396-4FE2-BD67-C6B7B333282E}|Repository\\Repository.csproj|c:\\users\\lenova\\onedrive\\desktop\\new folder\\consoleapp1\\consoleapp1\\repository\\repositories\\interfaces\\igrouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{975A4125-C396-4FE2-BD67-C6B7B333282E}|Repository\\Repository.csproj|solutionrelative:repository\\repositories\\interfaces\\igrouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87BA4FC4-1712-41ED-BC74-74ECD67E94D7}|Domain\\Domain.csproj|c:\\users\\lenova\\onedrive\\desktop\\new folder\\consoleapp1\\consoleapp1\\domain\\entities\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87BA4FC4-1712-41ED-BC74-74ECD67E94D7}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87BA4FC4-1712-41ED-BC74-74ECD67E94D7}|Domain\\Domain.csproj|c:\\users\\lenova\\onedrive\\desktop\\new folder\\consoleapp1\\consoleapp1\\domain\\entities\\educationgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87BA4FC4-1712-41ED-BC74-74ECD67E94D7}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\educationgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\New folder\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\New folder\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T14:33:48.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\New folder\\ConsoleApp1\\ConsoleApp1\\Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\New folder\\ConsoleApp1\\ConsoleApp1\\Domain\\Entities\\User.cs",
+              "RelativeToolTip": "Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T14:51:23.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EducationGroup.cs",
+              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\New folder\\ConsoleApp1\\ConsoleApp1\\Domain\\Entities\\EducationGroup.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\EducationGroup.cs",
+              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\New folder\\ConsoleApp1\\ConsoleApp1\\Domain\\Entities\\EducationGroup.cs",
+              "RelativeToolTip": "Domain\\Entities\\EducationGroup.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T15:11:09.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\New folder\\ConsoleApp1\\ConsoleApp1\\Service\\Services\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\Interfaces\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\New folder\\ConsoleApp1\\ConsoleApp1\\Service\\Services\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "Service\\Services\\Interfaces\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T18:40:09.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\New folder\\ConsoleApp1\\ConsoleApp1\\Domain\\Entities\\Group.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Group.cs",
+              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\New folder\\ConsoleApp1\\ConsoleApp1\\Domain\\Entities\\Group.cs",
+              "RelativeToolTip": "Domain\\Entities\\Group.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T14:48:30.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IGroupRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\New folder\\ConsoleApp1\\ConsoleApp1\\Repository\\Repositories\\Interfaces\\IGroupRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repositories\\Interfaces\\IGroupRepository.cs",
+              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\New folder\\ConsoleApp1\\ConsoleApp1\\Repository\\Repositories\\Interfaces\\IGroupRepository.cs",
+              "RelativeToolTip": "Repository\\Repositories\\Interfaces\\IGroupRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T17:30:22.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IGroupService.cs",
+              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\New folder\\ConsoleApp1\\ConsoleApp1\\Service\\Services\\Interfaces\\IGroupService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\Interfaces\\IGroupService.cs",
+              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\New folder\\ConsoleApp1\\ConsoleApp1\\Service\\Services\\Interfaces\\IGroupService.cs",
+              "RelativeToolTip": "Service\\Services\\Interfaces\\IGroupService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA1wAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T17:31:26.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GroupRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\New folder\\ConsoleApp1\\ConsoleApp1\\Repository\\Repositories\\GroupRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repositories\\GroupRepository.cs",
+              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\New folder\\ConsoleApp1\\ConsoleApp1\\Repository\\Repositories\\GroupRepository.cs",
+              "RelativeToolTip": "Repository\\Repositories\\GroupRepository.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA5wFsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T17:32:37.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GroupService.cs",
+              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\New folder\\ConsoleApp1\\ConsoleApp1\\Service\\Services\\GroupService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\GroupService.cs",
+              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\New folder\\ConsoleApp1\\ConsoleApp1\\Service\\Services\\GroupService.cs",
+              "RelativeToolTip": "Service\\Services\\GroupService.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAiwIMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T17:40:10.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GroupController.cs",
+              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\New folder\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1\\Controllers\\GroupController.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Controllers\\GroupController.cs",
+              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\New folder\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1\\Controllers\\GroupController.cs",
+              "RelativeToolTip": "ConsoleApp1\\Controllers\\GroupController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwM4AAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T17:40:56.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\New folder\\ConsoleApp1\\ConsoleApp1\\Repository\\Repositories\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repositories\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\New folder\\ConsoleApp1\\ConsoleApp1\\Repository\\Repositories\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "Repository\\Repositories\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T18:35:27.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\New folder\\ConsoleApp1\\ConsoleApp1\\Repository\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\New folder\\ConsoleApp1\\ConsoleApp1\\Repository\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Repository\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA7wCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T18:35:54.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\New folder\\ConsoleApp1\\ConsoleApp1\\Service\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\New folder\\ConsoleApp1\\ConsoleApp1\\Service\\Services\\AuthService.cs",
+              "RelativeToolTip": "Service\\Services\\AuthService.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAiwIMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T18:40:51.672Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
