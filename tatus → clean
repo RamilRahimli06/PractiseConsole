@@ -1,0 +1,235 @@
+[33mcommit 0adb0983b4ad56b2ddb130a6577580a7ce68551c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: RamilRahimli06 <ramiler-apa104@code.edu.az>
+Date:   Tue Apr 14 03:18:17 2026 +0400
+
+    restoreapikey
+
+[1mdiff --git a/ConsoleApp1/.vs/ConsoleApp1/CopilotIndices/17.14.1641.39856/CodeChunks.db b/ConsoleApp1/.vs/ConsoleApp1/CopilotIndices/17.14.1641.39856/CodeChunks.db[m
+[1mindex 9392822..daae6a6 100644[m
+Binary files a/ConsoleApp1/.vs/ConsoleApp1/CopilotIndices/17.14.1641.39856/CodeChunks.db and b/ConsoleApp1/.vs/ConsoleApp1/CopilotIndices/17.14.1641.39856/CodeChunks.db differ
+[1mdiff --git a/ConsoleApp1/.vs/ConsoleApp1/CopilotIndices/17.14.1641.39856/SemanticSymbols.db b/ConsoleApp1/.vs/ConsoleApp1/CopilotIndices/17.14.1641.39856/SemanticSymbols.db[m
+[1mindex 5edfc1a..a1a450e 100644[m
+Binary files a/ConsoleApp1/.vs/ConsoleApp1/CopilotIndices/17.14.1641.39856/SemanticSymbols.db and b/ConsoleApp1/.vs/ConsoleApp1/CopilotIndices/17.14.1641.39856/SemanticSymbols.db differ
+[1mdiff --git a/ConsoleApp1/.vs/ConsoleApp1/DesignTimeBuild/.dtbcache.v2 b/ConsoleApp1/.vs/ConsoleApp1/DesignTimeBuild/.dtbcache.v2[m
+[1mindex 928fc1e..69dcacd 100644[m
+Binary files a/ConsoleApp1/.vs/ConsoleApp1/DesignTimeBuild/.dtbcache.v2 and b/ConsoleApp1/.vs/ConsoleApp1/DesignTimeBuild/.dtbcache.v2 differ
+[1mdiff --git a/ConsoleApp1/.vs/ConsoleApp1/FileContentIndex/203626f3-66f7-4ab5-9e90-af847943fc68.vsidx b/ConsoleApp1/.vs/ConsoleApp1/FileContentIndex/203626f3-66f7-4ab5-9e90-af847943fc68.vsidx[m
+[1mdeleted file mode 100644[m
+[1mindex 58e0be8..0000000[m
+Binary files a/ConsoleApp1/.vs/ConsoleApp1/FileContentIndex/203626f3-66f7-4ab5-9e90-af847943fc68.vsidx and /dev/null differ
+[1mdiff --git a/ConsoleApp1/.vs/ConsoleApp1/FileContentIndex/3d2f4c32-86b3-4e43-9e78-709b37fc16dc.vsidx b/ConsoleApp1/.vs/ConsoleApp1/FileContentIndex/3d2f4c32-86b3-4e43-9e78-709b37fc16dc.vsidx[m
+[1mdeleted file mode 100644[m
+[1mindex ac6e94e..0000000[m
+Binary files a/ConsoleApp1/.vs/ConsoleApp1/FileContentIndex/3d2f4c32-86b3-4e43-9e78-709b37fc16dc.vsidx and /dev/null differ
+[1mdiff --git a/ConsoleApp1/.vs/ConsoleApp1/FileContentIndex/57c1decb-ccf3-4c42-9ac8-d41b864982c2.vsidx b/ConsoleApp1/.vs/ConsoleApp1/FileContentIndex/57c1decb-ccf3-4c42-9ac8-d41b864982c2.vsidx[m
+[1mdeleted file mode 100644[m
+[1mindex 552faf9..0000000[m
+Binary files a/ConsoleApp1/.vs/ConsoleApp1/FileContentIndex/57c1decb-ccf3-4c42-9ac8-d41b864982c2.vsidx and /dev/null differ
+[1mdiff --git a/ConsoleApp1/.vs/ConsoleApp1/FileContentIndex/5af84704-ca23-448e-889b-00599d83a622.vsidx b/ConsoleApp1/.vs/ConsoleApp1/FileContentIndex/5af84704-ca23-448e-889b-00599d83a622.vsidx[m
+[1mdeleted file mode 100644[m
+[1mindex 7dbb867..0000000[m
+Binary files a/ConsoleApp1/.vs/ConsoleApp1/FileContentIndex/5af84704-ca23-448e-889b-00599d83a622.vsidx and /dev/null differ
+[1mdiff --git a/ConsoleApp1/.vs/ConsoleApp1/FileContentIndex/8463c547-7481-469c-ad36-212357c7cbb6.vsidx b/ConsoleApp1/.vs/ConsoleApp1/FileContentIndex/8463c547-7481-469c-ad36-212357c7cbb6.vsidx[m
+[1mdeleted file mode 100644[m
+[1mindex f47c2c8..0000000[m
+Binary files a/ConsoleApp1/.vs/ConsoleApp1/FileContentIndex/8463c547-7481-469c-ad36-212357c7cbb6.vsidx and /dev/null differ
+[1mdiff --git a/ConsoleApp1/.vs/ConsoleApp1/FileContentIndex/bec18739-5884-4acc-a3ff-288b63007905.vsidx b/ConsoleApp1/.vs/ConsoleApp1/FileContentIndex/bec18739-5884-4acc-a3ff-288b63007905.vsidx[m
+[1mdeleted file mode 100644[m
+[1mindex 6430903..0000000[m
+Binary files a/ConsoleApp1/.vs/ConsoleApp1/FileContentIndex/bec18739-5884-4acc-a3ff-288b63007905.vsidx and /dev/null differ
+[1mdiff --git a/ConsoleApp1/.vs/ConsoleApp1/FileContentIndex/c82d5941-ab6c-4f78-aefa-5e45385569bf.vsidx b/ConsoleApp1/.vs/ConsoleApp1/FileContentIndex/c82d5941-ab6c-4f78-aefa-5e45385569bf.vsidx[m
+[1mnew file mode 100644[m
+[1mindex 0000000..c5ca92e[m
+Binary files /dev/null and b/ConsoleApp1/.vs/ConsoleApp1/FileContentIndex/c82d5941-ab6c-4f78-aefa-5e45385569bf.vsidx differ
+[1mdiff --git a/ConsoleApp1/.vs/ConsoleApp1/v17/.suo b/ConsoleApp1/.vs/ConsoleApp1/v17/.suo[m
+[1mindex ed1d6a2..ba2ee2a 100644[m
+Binary files a/ConsoleApp1/.vs/ConsoleApp1/v17/.suo and b/ConsoleApp1/.vs/ConsoleApp1/v17/.suo differ
+[1mdiff --git a/ConsoleApp1/.vs/ConsoleApp1/v17/DocumentLayout.backup.json b/ConsoleApp1/.vs/ConsoleApp1/v17/DocumentLayout.backup.json[m
+[1mindex d4734cb..179b61b 100644[m
+[1m--- a/ConsoleApp1/.vs/ConsoleApp1/v17/DocumentLayout.backup.json[m
+[1m+++ b/ConsoleApp1/.vs/ConsoleApp1/v17/DocumentLayout.backup.json[m
+[36m@@ -2,6 +2,10 @@[m
+   "Version": 1,[m
+   "WorkspaceRootPath": "C:\\Users\\lenova\\OneDrive\\Desktop\\ConsoleApp1\\ConsoleApp1\\",[m
+   "Documents": [[m
+[32m+[m[32m    {[m
+[32m+[m[32m      "AbsoluteMoniker": "D:0:0:{0AAD5A96-2819-49E0-A094-1C110E1E21B7}|Service\\Service.csproj|c:\\users\\lenova\\onedrive\\desktop\\consoleapp1\\consoleapp1\\service\\services\\chatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",[m
+[32m+[m[32m      "RelativeMoniker": "D:0:0:{0AAD5A96-2819-49E0-A094-1C110E1E21B7}|Service\\Service.csproj|solutionrelative:service\\services\\chatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"[m
+[32m+[m[32m    },[m
+     {[m
+       "AbsoluteMoniker": "D:0:0:{0AAD5A96-2819-49E0-A094-1C110E1E21B7}|Service\\Service.csproj|c:\\users\\lenova\\onedrive\\desktop\\consoleapp1\\consoleapp1\\service\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",[m
+       "RelativeMoniker": "D:0:0:{0AAD5A96-2819-49E0-A094-1C110E1E21B7}|Service\\Service.csproj|solutionrelative:service\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"[m
+[36m@@ -14,20 +18,33 @@[m
+       "DocumentGroups": [[m
+         {[m
+           "DockedWidth": 200,[m
+[31m-          "SelectedChildIndex": 0,[m
+[32m+[m[32m          "SelectedChildIndex": 1,[m
+           "Children": [[m
+             {[m
+               "$type": "Document",[m
+[31m-              "DocumentIndex": 0,[m
+[32m+[m[32m              "DocumentIndex": 1,[m
+               "Title": "AuthService.cs",[m
+               "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\ConsoleApp1\\ConsoleApp1\\Service\\Services\\AuthService.cs",[m
+               "RelativeDocumentMoniker": "Service\\Services\\AuthService.cs",[m
+               "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\ConsoleApp1\\ConsoleApp1\\Service\\Services\\AuthService.cs",[m
+               "RelativeToolTip": "Service\\Services\\AuthService.cs",[m
+[31m-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",[m
+[32m+[m[32m              "ViewState": "AgIAAHkAAAAAAAAAAAAcwAgAAAABAAAAAAAAAA==",[m
+               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",[m
+               "WhenOpened": "2026-04-13T15:15:45.417Z",[m
+               "EditorCaption": ""[m
+[32m+[m[32m            },[m
+[32m+[m[32m            {[m
+[32m+[m[32m              "$type": "Document",[m
+[32m+[m[32m              "DocumentIndex": 0,[m
+[32m+[m[32m              "Title": "ChatService.cs",[m
+[32m+[m[32m              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\ConsoleApp1\\ConsoleApp1\\Service\\Services\\ChatService.cs",[m
+[32m+[m[32m              "RelativeDocumentMoniker": "Service\\Services\\ChatService.cs",[m
+[32m+[m[32m              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\ConsoleApp1\\ConsoleApp1\\Service\\Services\\ChatService.cs",[m
+[32m+[m[32m              "RelativeToolTip": "Service\\Services\\ChatService.cs",[m
+[32m+[m[32m              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAvAAAAAAAAAA==",[m
+[32m+[m[32m              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",[m
+[32m+[m[32m              "WhenOpened": "2026-04-13T22:45:56.93Z",[m
+[32m+[m[32m              "EditorCaption": ""[m
+             }[m
+           ][m
+         }[m
+[1mdiff --git a/ConsoleApp1/.vs/ConsoleApp1/v17/DocumentLayout.json b/ConsoleApp1/.vs/ConsoleApp1/v17/DocumentLayout.json[m
+[1mindex 179b61b..4a3291d 100644[m
+[1m--- a/ConsoleApp1/.vs/ConsoleApp1/v17/DocumentLayout.json[m
+[1m+++ b/ConsoleApp1/.vs/ConsoleApp1/v17/DocumentLayout.json[m
+[36m@@ -30,8 +30,7 @@[m
+               "RelativeToolTip": "Service\\Services\\AuthService.cs",[m
+               "ViewState": "AgIAAHkAAAAAAAAAAAAcwAgAAAABAAAAAAAAAA==",[m
+               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",[m
+[31m-              "WhenOpened": "2026-04-13T15:15:45.417Z",[m
+[31m-              "EditorCaption": ""[m
+[32m+[m[32m              "WhenOpened": "2026-04-13T15:15:45.417Z"[m
+             },[m
+             {[m
+               "$type": "Document",[m
+[36m@@ -41,7 +40,7 @@[m
+               "RelativeDocumentMoniker": "Service\\Services\\ChatService.cs",[m
+               "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\ConsoleApp1\\ConsoleApp1\\Service\\Services\\ChatService.cs",[m
+               "RelativeToolTip": "Service\\Services\\ChatService.cs",[m
+[31m-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAvAAAAAAAAAA==",[m
+[32m+[m[32m              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",[m
+               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",[m
+               "WhenOpened": "2026-04-13T22:45:56.93Z",[m
+               "EditorCaption": ""[m
+[1mdiff --git a/ConsoleApp1/.vs/ProjectEvaluation/consoleapp1.metadata.v9.bin b/ConsoleApp1/.vs/ProjectEvaluation/consoleapp1.metadata.v9.bin[m
+[1mindex cd89289..f102b57 100644[m
+Binary files a/ConsoleApp1/.vs/ProjectEvaluation/consoleapp1.metadata.v9.bin and b/ConsoleApp1/.vs/ProjectEvaluation/consoleapp1.metadata.v9.bin differ
+[1mdiff --git a/ConsoleApp1/.vs/ProjectEvaluation/consoleapp1.projects.v9.bin b/ConsoleApp1/.vs/ProjectEvaluation/consoleapp1.projects.v9.bin[m
+[1mindex 2236cd0..8165bc6 100644[m
+Binary files a/ConsoleApp1/.vs/ProjectEvaluation/consoleapp1.projects.v9.bin and b/ConsoleApp1/.vs/ProjectEvaluation/consoleapp1.projects.v9.bin differ
+[1mdiff --git a/ConsoleApp1/.vs/ProjectEvaluation/consoleapp1.strings.v9.bin b/ConsoleApp1/.vs/ProjectEvaluation/consoleapp1.strings.v9.bin[m
+[1mindex 728d087..7c5ef58 100644[m
+Binary files a/ConsoleApp1/.vs/ProjectEvaluation/consoleapp1.strings.v9.bin and b/ConsoleApp1/.vs/ProjectEvaluation/consoleapp1.strings.v9.bin differ
+[1mdiff --git a/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfo.cs b/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfo.cs[m
+[1mindex 17fcb71..8898264 100644[m
+[1m--- a/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfo.cs[m
+[1m+++ b/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfo.cs[m
+[36m@@ -14,7 +14,7 @@[m [musing System.Reflection;[m
+ [assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleApp1")][m
+ [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")][m
+ [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")][m
+[31m-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8d664b0539a8caa7b60218aaf97cdf27ff9b8474")][m
+[32m+[m[32m[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b71615eb17ad38b1fe3644f62a12542eefb30df6")][m
+ [assembly: System.Reflection.AssemblyProductAttribute("ConsoleApp1")][m
+ [assembly: System.Reflection.AssemblyTitleAttribute("ConsoleApp1")][m
+ [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")][m
+[1mdiff --git a/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfoInputs.cache b/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfoInputs.cache[m
+[1mindex 3a52277..c679f96 100644[m
+[1m--- a/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfoInputs.cache[m
+[1m+++ b/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfoInputs.cache[m
+[36m@@ -1 +1 @@[m
+[31m-9cd35b1c37f41100edbd7479b96546580f93dae9cb6d4e7f205be470c4b18091[m
+[32m+[m[32m4649526c0c881f035f3e356dcb8a0d687bec4ff9bdc2ce5084b18b0f34812f68[m
+[1mdiff --git a/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.csproj.AssemblyReference.cache b/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.csproj.AssemblyReference.cache[m
+[1mindex e6fef38..657b7d4 100644[m
+Binary files a/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.csproj.AssemblyReference.cache and b/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.csproj.AssemblyReference.cache differ
+[1mdiff --git a/ConsoleApp1/Domain/obj/Debug/net8.0/Domain.AssemblyInfo.cs b/ConsoleApp1/Domain/obj/Debug/net8.0/Domain.AssemblyInfo.cs[m
+[1mindex 734b975..1da4fe7 100644[m
+[1m--- a/ConsoleApp1/Domain/obj/Debug/net8.0/Domain.AssemblyInfo.cs[m
+[1m+++ b/ConsoleApp1/Domain/obj/Debug/net8.0/Domain.AssemblyInfo.cs[m
+[36m@@ -14,7 +14,7 @@[m [musing System.Reflection;[m
+ [assembly: System.Reflection.AssemblyCompanyAttribute("Domain")][m
+ [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")][m
+ [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")][m
+[31m-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8d664b0539a8caa7b60218aaf97cdf27ff9b8474")][m
+[32m+[m[32m[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b71615eb17ad38b1fe3644f62a12542eefb30df6")][m
+ [assembly: System.Reflection.AssemblyProductAttribute("Domain")][m
+ [assembly: System.Reflection.AssemblyTitleAttribute("Domain")][m
+ [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")][m
+[1mdiff --git a/ConsoleApp1/Domain/obj/Debug/net8.0/Domain.AssemblyInfoInputs.cache b/ConsoleApp1/Domain/obj/Debug/net8.0/Domain.AssemblyInfoInputs.cache[m
+[1mindex 269949c..0735a8c 100644[m
+[1m--- a/ConsoleApp1/Domain/obj/Debug/net8.0/Domain.AssemblyInfoInputs.cache[m
+[1m+++ b/ConsoleApp1/Domain/obj/Debug/net8.0/Domain.AssemblyInfoInputs.cache[m
+[36m@@ -1 +1 @@[m
+[31m-58c9bba997da673c670e8351e7d5e3deaa24b0b7bc26ccc80b29e70d11aed950[m
+[32m+[m[32mcf7b23ccfbe07bdfcb8683db3f92e23a0e1f1b9fbeb0a1d649eab7f441c4cb52[m
+[1mdiff --git a/ConsoleApp1/Repository/obj/Debug/net8.0/Repository.AssemblyInfo.cs b/ConsoleApp1/Repository/obj/Debug/net8.0/Repository.AssemblyInfo.cs[m
+[1mindex 499a412..84ce556 100644[m
+[1m--- a/ConsoleApp1/Repository/obj/Debug/net8.0/Repository.AssemblyInfo.cs[m
+[1m+++ b/ConsoleApp1/Repository/obj/Debug/net8.0/Repository.AssemblyInfo.cs[m
+[36m@@ -14,7 +14,7 @@[m [musing System.Reflection;[m
+ [assembly: System.Reflection.AssemblyCompanyAttribute("Repository")][m
+ [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")][m
+ [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")][m
+[31m-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8d664b0539a8caa7b60218aaf97cdf27ff9b8474")][m
+[32m+[m[32m[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b71615eb17ad38b1fe3644f62a12542eefb30df6")][m
+ [assembly: System.Reflection.AssemblyProductAttribute("Repository")][m
+ [assembly: System.Reflection.AssemblyTitleAttribute("Repository")][m
+ [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")][m
+[1mdiff --git a/ConsoleApp1/Repository/obj/Debug/net8.0/Repository.AssemblyInfoInputs.cache b/ConsoleApp1/Repository/obj/Debug/net8.0/Repository.AssemblyInfoInputs.cache[m
+[1mindex 6ad6430..e5d162f 100644[m
+[1m--- a/ConsoleApp1/Repository/obj/Debug/net8.0/Repository.AssemblyInfoInputs.cache[m
+[1m+++ b/ConsoleApp1/Repository/obj/Debug/net8.0/Repository.AssemblyInfoInputs.cache[m
+[36m@@ -1 +1 @@[m
+[31m-d7245df57293d8ca77d232361bfaacd96dfcb91f5cf254ca5cbe23549661a624[m
+[32m+[m[32mc8d63f4e7e7eedfba571b99cc99b54e8dabc9f0c0ba0cbd6121047c56525e309[m
+[1mdiff --git a/ConsoleApp1/Repository/obj/Debug/net8.0/Repository.csproj.AssemblyReference.cache b/ConsoleApp1/Repository/obj/Debug/net8.0/Repository.csproj.AssemblyReference.cache[m
+[1mindex 9dd1d05..ddecf1c 100644[m
+Binary files a/ConsoleApp1/Repository/obj/Debug/net8.0/Repository.csproj.AssemblyReference.cache and b/ConsoleApp1/Repository/obj/Debug/net8.0/Repository.csproj.AssemblyReference.cache differ
+[1mdiff --git a/ConsoleApp1/Service/Services/ChatService.cs b/ConsoleApp1/Service/Services/ChatService.cs[m
+[1mindex f2bbdf3..22721eb 100644[m
+[1m--- a/ConsoleApp1/Service/Services/ChatService.cs[m
+[1m+++ b/ConsoleApp1/Service/Services/ChatService.cs[m
+[36m@@ -13,8 +13,10 @@[m [mnamespace Service.Services[m
+         {[m
+             _httpClient = new HttpClient();[m
+ [m
+[32m+[m[32m            var apiKey = Environment.GetEnvironmentVariable("GROQ_API_KEY");[m
+[32m+[m
+             _httpClient.DefaultRequestHeaders.Authorization =[m
+[31m-                new AuthenticationHeaderValue("Bearer", "ApiKey");[m
+[32m+[m[32m                new AuthenticationHeaderValue("Bearer", apiKey);[m
+         }[m
+ [m
+         public async Task<string> AskAsync(string message)[m
+[1mdiff --git a/ConsoleApp1/Service/obj/Debug/net8.0/Service.AssemblyInfo.cs b/ConsoleApp1/Service/obj/Debug/net8.0/Service.AssemblyInfo.cs[m
+[1mindex 13a4dc1..eeb19d8 100644[m
+[1m--- a/ConsoleApp1/Service/obj/Debug/net8.0/Service.AssemblyInfo.cs[m
+[1m+++ b/ConsoleApp1/Service/obj/Debug/net8.0/Service.AssemblyInfo.cs[m
+[36m@@ -14,7 +14,7 @@[m [musing System.Reflection;[m
+ [assembly: System.Reflection.AssemblyCompanyAttribute("Service")][m
+ [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")][m
+ [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")][m
+[31m-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8d664b0539a8caa7b60218aaf97cdf27ff9b8474")][m
+[32m+[m[32m[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b71615eb17ad38b1fe3644f62a12542eefb30df6")][m
+ [assembly: System.Reflection.AssemblyProductAttribute("Service")][m
+ [assembly: System.Reflection.AssemblyTitleAttribute("Service")][m
+ [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")][m
+[1mdiff --git a/ConsoleApp1/Service/obj/Debug/net8.0/Service.AssemblyInfoInputs.cache b/ConsoleApp1/Service/obj/Debug/net8.0/Service.AssemblyInfoInputs.cache[m
+[1mindex 30d175e..2c931c0 100644[m
+[1m--- a/ConsoleApp1/Service/obj/Debug/net8.0/Service.AssemblyInfoInputs.cache[m
+[1m+++ b/ConsoleApp1/Service/obj/Debug/net8.0/Service.AssemblyInfoInputs.cache[m
+[36m@@ -1 +1 @@[m
+[31m-8d87801be3edc9458c285e4bbeacc56ff679bd0c686f599a435b5c5535fc2290[m
+[32m+[m[32m3180815fed7526f562b45ad37442cd2dd9c7848e7c90596a2c408684f5cac2a8[m
+[1mdiff --git a/ConsoleApp1/Service/obj/Debug/net8.0/Service.csproj.AssemblyReference.cache b/ConsoleApp1/Service/obj/Debug/net8.0/Service.csproj.AssemblyReference.cache[m
+[1mindex 04d16f2..d03305d 100644[m
+Binary files a/ConsoleApp1/Service/obj/Debug/net8.0/Service.csproj.AssemblyReference.cache and b/ConsoleApp1/Service/obj/Debug/net8.0/Service.csproj.AssemblyReference.cache differ
